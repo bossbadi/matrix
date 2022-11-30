@@ -1,3 +1,3 @@
 @echo off
 
-http-server
+http-server -p 1337
